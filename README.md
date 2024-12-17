@@ -12,5 +12,6 @@ of the pattern exhibited depends on the particular bacterial species used and th
 - Performed numerical simulations of the reaction-diffusion equations.
 - Analyzed the resulting patterns and compared them with experimental former results.
 
-## Reference :
-  Bacteria Patterns, Chapter Mathematical Biology II: Spatial Models and Biomedical Applications, J. D. Murray, 2000
+## References :
+- Bacteria Patterns, Chapter Mathematical Biology II: Spatial Models and Biomedical Applications, J. D. Murray, 2000
+- V. Bucur and B.r Vasiev, arXiv, 2024, Modelling formation of stationary periodic patterns in growing population of motile bacteria.
