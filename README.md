@@ -4,10 +4,6 @@ Spatial patterns which are formed by some kinds of bacterial colonies present an
 conditions. In particular, colonies of bacterium bacillus can present a rich variety of structures,and the nature
 of the pattern exhibited depends on the particular bacterial species used and the environmental conditions 
 
-The general form of reaction-diffusion equations is:
-$$ \frac{\partial u}{\partial t} = D_u \nabla^2 u + f(u, v) $$
-$$ \frac{\partial v}{\partial t} = D_v \nabla^2 v + g(u, v) $$
-
 
 Work conducted :
 - Studied the origin of the reaction-diffusion model for Bacterial Pattern Formation and defined the parameters.
