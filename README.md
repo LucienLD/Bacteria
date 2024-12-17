@@ -5,10 +5,10 @@ conditions. In particular, colonies of bacterium bacillus can present a rich var
 of the pattern exhibited depends on the particular bacterial species used and the environmental conditions 
 
 
-Work conducted :
+## Work conducted :
 - Studied the origin of the reaction-diffusion model for Bacterial Pattern Formation and defined the parameters.
 - Performed numerical simulations of the reaction-diffusion equations;
 - Analyzed the resulting patterns and compared them with experimental former results.
 
-  Reference :
+## Reference :
   Bacteria Patterns, Chapter Mathematical Biology II: Spatial Models and Biomedical Applications, J. D. Murray, 2000
