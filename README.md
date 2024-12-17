@@ -1,4 +1,6 @@
 # Bacterial pattern formation
+Group project with Antony Mitu (antony.mitu@etu.sorbonne-universite.fr)
+
 Bacterial pattern formation can be modeled using reaction-diffusion systems. These systems describe how the concentration of one or more substances  distributed in space changes under the influence of two processes: local chemical reactions and diffusion.
 Spatial patterns which are formed by some kinds of bacterial colonies present an interesting structure during their growth
 conditions. In particular, colonies of bacterium bacillus can present a rich variety of structures,and the nature
