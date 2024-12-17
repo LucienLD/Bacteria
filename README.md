@@ -7,7 +7,7 @@ of the pattern exhibited depends on the particular bacterial species used and th
 
 ## Work conducted :
 - Studied the origin of the reaction-diffusion model for Bacterial Pattern Formation and defined the parameters.
-- Performed numerical simulations of the reaction-diffusion equations;
+- Performed numerical simulations of the reaction-diffusion equations.
 - Analyzed the resulting patterns and compared them with experimental former results.
 
 ## Reference :
